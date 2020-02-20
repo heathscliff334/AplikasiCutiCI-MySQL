@@ -1,0 +1,31 @@
+body {
+	/*background-color: #f5f5f5;*/
+}
+/*.containter{
+	display: flex;
+}*/
+.h2{
+	font-size: 35px;
+}
+.lead{
+	/*font-size: 29px;*/
+	font-style: italic;
+}
+.login_form {
+	background-color: white;
+	padding: 35px;
+	border-radius: 20px;
+	background-color: #ebebeb;
+	columns: #ebebeb;
+}
+.images {
+	display: block;
+	border-radius: 150px;
+	border: 3px inset #0ac914;
+/*	border-style: groove dashed ;*/
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+	height: 100px;
+	order: 1;
+}
